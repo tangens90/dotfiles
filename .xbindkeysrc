@@ -1,0 +1,16 @@
+"refbar"
+  F9
+
+"flameshot gui"
+  Mod1 + Shift + 4
+
+"amixer set Master 2dB+ unmute; refbar;"
+  XF86AudioRaiseVolume
+
+"amixer set Master 2dB- unmute; refbar;"
+  XF86AudioLowerVolume
+
+"amixer set Master toggle; refbar;"
+  XF86AudioMute
+
+
