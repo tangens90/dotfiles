@@ -1,3 +1,11 @@
+set tabstop=4
+set shiftwidth=4
+set noexpandtab
+set autoindent
+set smartindent
+
+" Rest is copied from MIT Missing Semester's basic vim config file
+
 " Comments in Vimscript start with a `"`.
 
 " If you open this file in Vim, it'll be syntax highlighted for you.
@@ -78,11 +86,3 @@ inoremap <Left>  <ESC>:echoe "Use h"<CR>
 inoremap <Right> <ESC>:echoe "Use l"<CR>
 inoremap <Up>    <ESC>:echoe "Use k"<CR>
 inoremap <Down>  <ESC>:echoe "Use j"<CR>
-
-" Moje zajebiste poprawki do Vima. Zapraszam!
-set tabstop=4
-set shiftwidth=4
-set noexpandtab
-set autoindent
-set smartindent
-" set clipboard=unnamedplus
