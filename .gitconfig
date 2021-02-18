@@ -1,0 +1,8 @@
+[user]
+	email = jakubparapura@gmail.com
+	name = Jakub Parapura
+
+[alias]
+    graph = log --all --graph --decorate --oneline
+[init]
+	defaultBranch = main
